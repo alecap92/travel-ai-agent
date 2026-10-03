@@ -1,0 +1,10 @@
+# Claves y datos personales: nunca van en este repo
+.env
+**/.env
+_kb/
+agents/_kb/
+
+# Python / sistema
+__pycache__/
+*.pyc
+.DS_Store
